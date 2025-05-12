@@ -4,8 +4,9 @@ markdown
 pandas
 numpy
 requests
-google-generativeai  # (if you're using Gemini Flash via this)
+google-generativeai
 dotenv
 python-dotenv
-uvicorn==0.18.0  # Or any other version you're using
+uvicorn>=0.23.2
 fastapi
+h11>=0.14.0
