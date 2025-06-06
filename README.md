@@ -1,6 +1,6 @@
 # ⚙️ Smart Nutrition Estimator - Backend API
 
-Backend for the Smart Nutrition Estimator by Pankaj Paliwal (VYB AI challenge).
+Backend for the Smart Nutrition Estimator by Pankaj Paliwal 
 
 ## 🔥 Hosted at
 - **[Smart Nutrition Estimator - Backend](https://back-smart-production.up.railway.app/)**
@@ -65,4 +65,3 @@ Batch analysis of multiple dishes with optional known issues.
 
 4. **Visit API docs** at `http://127.0.0.1:8000/docs`
 
-**Built by Pankaj Paliwal for the VYB AI challenge.**
